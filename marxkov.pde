@@ -2,7 +2,7 @@ import rita.*;
 
 RiMarkov markov;
 String line = "Communist Manifesto REMIXED";
-String[] file = { "marx.txt" };
+String file = ("marx.txt");
 PFont font;
 int x = 20, y = 20;
 
